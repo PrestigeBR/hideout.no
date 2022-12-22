@@ -1,7 +1,7 @@
 ### web design is my passion 
 
-Check out Boom Bears: http://boombears.com/
+Check out Boom Bears: <a href="http://boombears.com/">http://boombears.com/</a>
 
 
 
-Join discord: http://discord.hideout.no/
+Join discord: <a href="http://discord.hideout.no/">http://discord.hideout.no/</a>

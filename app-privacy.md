@@ -1,15 +1,15 @@
-PRIVACY POLICY FOR FILESTOGIF
+PRIVACY POLICY
 
 Effective date: 2026-06-28
 Last updated: 2026-06-28
 
 INTRODUCTION
 
-This Privacy Policy describes how TORE ANDRÉ VALAND BRU ("we", "us", or "our") collects, uses, and protects information in connection with FilesToGIF (the "Service"). By using the Service, you agree to the practices described in this policy.
+This Privacy Policy describes how TORE ANDRÉ VALAND BRU ("we", "us", or "our") collects, uses, and protects information in connection with our applications FilesToGIF and PixelGraph (the "Service"). By using the Service, you agree to the practices described in this policy.
 
 INFORMATION WE COLLECT
 
-We do not collect personal data through FilesToGIF. The Service does not require you to provide personal information, and we do not knowingly gather information that identifies you.
+We do not collect personal data through the service. The Service does not require you to provide personal information, and we do not knowingly gather information that identifies you.
 
 DATA SHARING
 
